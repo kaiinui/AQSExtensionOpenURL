@@ -1,4 +1,8 @@
 AQSExtensionOpenURL
 ===================
 
-Provides OpenURL which can be called by both App and Extension.
+Provides `- openURL` which can be called by both App and Extension.
+
+```objc
+AQSOpenURL(@"https://google.com/")
+```
